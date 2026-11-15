@@ -21,6 +21,8 @@
 
 ## 📂 Обзор проектов
 
+## Projects
+
 | Проект | Стек | Ключевая задача |
 | :--- | :--- | :--- |
 | **[userDeque](https://github.com/alekseychetvergov/userDeque)** | C++20, PMR, CMake, GTest | Кастомный контейнер `MyDeque` с PMR-аллокаторами и транзакционным откатом |
@@ -29,7 +31,8 @@
 | **[Database](https://github.com/alekseychetvergov/Database)** | C++20, SQLite, vcpkg, GTest | Консольное CRUD-приложение с разделением слоев и RAII-оберткой над БД |
 | **[Graph](https://github.com/alekseychetvergov/Graph)** | C++20, CMake, GTest | Шаблонная библиотека ориентированных графов и алгоритмов поиска путей |
 | **[MyTupleCMake](https://github.com/alekseychetvergov/MyTupleCMake)** | C++23, CMake, vcpkg, GTest | Реализация вариативного контейнера `tupleVector` на базе метапрограммирования |
-| **[Crypto-AES-SHA256](https://github.com/alekseychetvergov/Crypto-AES-SHA256)** | C++17, CMake, GTest | Реализация симметричного шифрования AES-128 и хеширования SHA-256 с нуля |
+| **[Crypto-AES-SHA256](https://github.com/alekseychetvergov/Crypto-AES-SHA256)** | C++17, CMake, CTest | Реализация симметричного шифрования AES-128 и хеширования SHA-256 с нуля |
+
 
 
 ---
