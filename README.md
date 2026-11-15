@@ -1,10 +1,4 @@
 # Prodjects
-## Projects
-
-| Название проекта | Описание | Стек технологий | Статус | Ссылки |
-| :--- | :--- | :--- | :---: | :--- |
-| **[Crypto Project](https://github.com)** | Минималистичная библиотека с самостоятельной реализацией симметричного шифрования **AES-128** (полный цикл шифрования и дешифрования) и хеширования **SHA-256**, покрытая юнит-тестами. | `C++17`, `CMake`, `CTest` | 🔵 Completed | [Repo](https://github.com) • [README](https://github.com#readme) |
-
 
 # Портфолио проектов на C++
 
@@ -21,19 +15,15 @@
 
 ## 📂 Обзор проектов
 
-## Projects
-
-| Проект | Стек | Ключевая задача |
-| :--- | :--- | :--- |
-| **[userDeque](https://github.com/alekseychetvergov/userDeque)** | C++20, PMR, CMake, GTest | Кастомный контейнер `MyDeque` с PMR-аллокаторами и транзакционным откатом |
-| **[gravity3dCuda](https://github.com/alekseychetvergov/gravity3dCuda)** | CUDA, C++17/20, CMake, GTest | Высокопроизводительная 3D-симуляция гравитации $N$ тел на GPU |
-| **[searchTxtServer](https://github.com/alekseychetvergov/searchTxtServer)** | C++20, Boost, nlohmann/json, GTest | Полнотекстовый поисковый движок с ранжированием релевантности |
-| **[Database](https://github.com/alekseychetvergov/Database)** | C++20, SQLite, vcpkg, GTest | Консольное CRUD-приложение с разделением слоев и RAII-оберткой над БД |
-| **[Graph](https://github.com/alekseychetvergov/Graph)** | C++20, CMake, GTest | Шаблонная библиотека ориентированных графов и алгоритмов поиска путей |
-| **[MyTupleCMake](https://github.com/alekseychetvergov/MyTupleCMake)** | C++23, CMake, vcpkg, GTest | Реализация вариативного контейнера `tupleVector` на базе метапрограммирования |
-| **[Crypto-AES-SHA256](https://github.com/alekseychetvergov/Crypto-AES-SHA256)** | C++17, CMake, CTest | Реализация симметричного шифрования AES-128 и хеширования SHA-256 с нуля |
-
-
+| Название проекта | Описание | Стек технологий | Статус | Ссылки |
+| :--- | :--- | :--- | :---: | :--- |
+| **[userDeque](https://github.com/alekseychetvergov/userDeque)** | Кастомный двусторонний контейнер `MyDeque` с поддержкой полиморфных PMR-аллокаторов и механизмом транзакционного отката. | `C++20`, `PMR`, `CMake`, `GTest` | 🔵 Completed | [Repo](https://github.com/alekseychetvergov/userDeque) • [README](https://github.com) |
+| **[gravity3dCuda](https://github.com/alekseychetvergov/gravity3dCuda)** | Высокопроизводительная 3D-симуляция гравитационного взаимодействия $N$ тел с параллельными вычислениями на GPU. | `CUDA`, `C++17/20`, `CMake`, `GTest` | 🔵 Completed | [Repo](https://github.com/alekseychetvergov/gravity3dCuda) • [README](https://github.com) |
+| **[searchTxtServer](https://github.com/alekseychetvergov/searchTxtServer)** | Полнотекстовый поисковый движок с индексацией документов, сетевым взаимодействием и ранжированием результатов по релевантности. | `C++20`, `Boost`, `nlohmann/json`, `GTest` | 🔵 Completed | [Repo](https://github.com/alekseychetvergov/searchTxtServer) • [README](https://github.com) |
+| **[Database](https://github.com/alekseychetvergov/Database)** | Консольное CRUD-приложение с чистым разделением архитектурных слоев и безопасной RAII-оберткой над базой данных. | `C++20`, `SQLite`, `vcpkg`, `GTest` | 🔵 Completed | [Repo](https://github.com/alekseychetvergov/Database) • [README](https://github.com) |
+| **[Graph](https://github.com/alekseychetvergov/Graph)** | Шаблонная библиотека для работы с ориентированными графами и реализацией классических алгоритмов поиска путей. | `C++20`, `CMake`, `GTest` | 🔵 Completed | [Repo](https://github.com/alekseychetvergov/Graph) • [README](https://github.com) |
+| **[MyTupleCMake](https://github.com/alekseychetvergov/MyTupleCMake)** | Реализация вариативного контейнера `tupleVector` на базе современного шаблонного метапрограммирования. | `C++23`, `CMake`, `vcpkg`, `GTest` | 🔵 Completed | [Repo](https://github.com/alekseychetvergov/MyTupleCMake) • [README](https://github.com) |
+| **[Crypto-AES-SHA256](https://github.com/alekseychetvergov/Crypto-AES-SHA256)** | Минималистичная библиотека с самостоятельной реализацией симметричного шифрования **AES-128** (шифрование и дешифрование) и хеширования **SHA-256**, покрытая юнит-тестами. | `C++17`, `CMake`, `CTest` | 🔵 Completed | [Repo](https://github.com/alekseychetvergov/Crypto-AES-SHA256) • [README](https://github.com) |
 
 ---
 
